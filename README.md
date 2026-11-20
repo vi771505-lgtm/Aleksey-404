@@ -1,3 +1,4 @@
+
 # Aleksey-404
 ## Dynamic Island for Windows — Бета 0.1 🏝️
 
@@ -18,3 +19,6 @@
 1. Скачай **`island.exe`** ниже и запусти двойным кликом.
 2. Наведи курсор на островок сверху экрана, чтобы раскрыть плеер или таймер.
 3. **Чтобы закрыть программу:** нажми по островку **правой кнопкой мыши (ПКМ)**.
+<img width="622" height="168" alt="Снимок экрана 2026-11-20 195345" src="https://github.com/user-attachments/assets/f3e16fe2-7724-493b-a7af-1489f84cd3b0" />
+<img width="568" height="262" alt="Снимок экрана 2026-11-20 195336" src="https://github.com/user-attachments/assets/3948f2ac-131c-4791-b130-0dd6ebd877f0" />
+<img width="445" height="88" alt="Снимок экрана 2026-11-20 195351" src="https://github.com/user-attachments/assets/fa23b4b1-884b-4d60-b09e-2e2975f25e45" />
